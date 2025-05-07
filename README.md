@@ -1,4 +1,4 @@
-Here are key insights based on the HR analytics dashboard for Research & Development, Human Resources, and Sales departments:
+**Here are key insights based on the HR analytics dashboard for Research & Development, Human Resources, and Sales departments:**
 
 ## 🔍 Overall Comparison
 | Metric              | R\&D  | HR    | Sales        |
@@ -10,8 +10,8 @@ Here are key insights based on the HR analytics dashboard for Research & Develop
 | **Avg Salary (K)**  | 6.3   | 6.7   | 6.9          |
 | **Avg Years**       | 7     | 7     | 7            |
 
-📊 ## Department-wise Insights
-1. ### Research & Development
+## 📊 Department-wise Insights
+### Research & Development
 Attrition Rate is lowest (13.8%) among all departments.
 
 **Most attrition is among**:
@@ -26,7 +26,7 @@ Laboratory Technicians (60 out of 127) have the highest attrition.
 
 Attrition is spread across all job roles.
 
-2. ###Human Resources
+### Human Resources
 Attrition Rate is high at 19.4%, despite having the fewest employees (62).
 
 All 12 attritions are from the Human Resources job role.
@@ -37,7 +37,7 @@ Most attrition is in the age group 26–35, and again among those earning less t
 
 Attrition seems more evenly split by gender (6 males, 6 females).
 
-3. ###Sales
+### Sales
 Highest attrition rate (20.7%) and a large number of attritions (90).
 
 **Most attrition occurs in**:
@@ -52,7 +52,7 @@ Those from a Marketing (38%) and Life Sciences (32%) background.
 
 Gender attrition is male-dominated (53 out of 90).
 
-📈 ##Key Patterns Across Departments
+## 📈 Key Patterns Across Departments
 High attrition is linked to lower salary slabs (majority are under 5K).
 
 Age group 26–35 shows the highest attrition across all departments.
@@ -61,7 +61,7 @@ Years at company: Many employees leave in their first year.
 
 Job Role heavily influences attrition – especially in Sales and Technical roles in R&D.
 
-💡 ##Suggestions for HR Team
+## 💡 Suggestions for HR Team
 Focus retention efforts on early-tenure employees, especially within the first year.
 
 Review compensation strategies for employees in the <5K range.
