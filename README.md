@@ -11,7 +11,9 @@
 | **Avg Years**       | 7     | 7     | 7            |
 
 ## 📊 Department-wise Insights
-### Research & Development
+### Research & Development:
+![Screenshot (3)](https://github.com/user-attachments/assets/5c2dedee-304b-403e-a1e9-8c92e318b1bc)
+
 Attrition Rate is lowest (13.8%) among all departments.
 
 **Most attrition is among**:
@@ -26,7 +28,9 @@ Laboratory Technicians (60 out of 127) have the highest attrition.
 
 Attrition is spread across all job roles.
 
-### Human Resources
+### Human Resources:
+![Screenshot (5)](https://github.com/user-attachments/assets/0295cd1d-3f69-4213-9c14-68fecc9eacc3)
+
 Attrition Rate is high at 19.4%, despite having the fewest employees (62).
 
 All 12 attritions are from the Human Resources job role.
@@ -37,7 +41,9 @@ Most attrition is in the age group 26–35, and again among those earning less t
 
 Attrition seems more evenly split by gender (6 males, 6 females).
 
-### Sales
+### Sales:
+![Screenshot (6)](https://github.com/user-attachments/assets/6bdf14a3-7662-4ad4-a406-c0623829c3b2)
+
 Highest attrition rate (20.7%) and a large number of attritions (90).
 
 **Most attrition occurs in**:
