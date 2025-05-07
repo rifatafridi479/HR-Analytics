@@ -1,6 +1,6 @@
 Here are key insights based on the HR analytics dashboard for Research & Development, Human Resources, and Sales departments:
 
-🔍 ##Overall Comparison
+🔍 ## Overall Comparison
 | Metric              | R\&D  | HR    | Sales        |
 | ------------------- | ----- | ----- | ------------ |
 | **Employees**       | 920   | 62    | 434          |
@@ -10,8 +10,8 @@ Here are key insights based on the HR analytics dashboard for Research & Develop
 | **Avg Salary (K)**  | 6.3   | 6.7   | 6.9          |
 | **Avg Years**       | 7     | 7     | 7            |
 
-📊 ##Department-wise Insights
-1. ###Research & Development
+📊 ## Department-wise Insights
+1. ### Research & Development
 Attrition Rate is lowest (13.8%) among all departments.
 
 **Most attrition is among**:
