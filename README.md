@@ -1,6 +1,6 @@
 Here are key insights based on the HR analytics dashboard for Research & Development, Human Resources, and Sales departments:
 
-🔍 ## Overall Comparison
+## 🔍 Overall Comparison
 | Metric              | R\&D  | HR    | Sales        |
 | ------------------- | ----- | ----- | ------------ |
 | **Employees**       | 920   | 62    | 434          |
